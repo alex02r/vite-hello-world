@@ -5,7 +5,7 @@ export default {
 </script>
 <template lang="">
     <div>
-        <h1>Hello My man</h1>
+        <h1>La mia prima app con Vite!</h1>
     </div>
 </template>
 <style lang="">
